@@ -1,5 +1,7 @@
 Layout:
+
 Title: Half Around Pluto
+
 Source:Project Gutenberg
 
                      BY MANLY WADE WELLMAN

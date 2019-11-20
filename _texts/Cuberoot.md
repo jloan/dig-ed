@@ -1,5 +1,3 @@
-By Rog Phillips
-
 ---
 layout: Narrative
 title: "Cube Root of Conquest"

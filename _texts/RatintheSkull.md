@@ -1,5 +1,15 @@
+---
+layout: narrative
+title: "The Rat in the Skull"
+author: Rog Phillips
+editor: Zachary Koivisto
+rights: Public Domain
+source: Project Gutenberg
+publication-date: 2019
+---
  RAT IN THE SKULL
 
+                          
                             BY ROG PHILLIPS
 
               _Some people will be shocked by this story.

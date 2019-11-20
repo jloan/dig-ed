@@ -7,7 +7,9 @@ rights: public domiain
 source: Project Gutenberg
 publication date: 1953
 ---
-*****
+The Slizzers
+
+BY JEROME BIXBY
 
 They're all around us. I'll call them the _slizzers_, because they
 _sliz_ people. Lord only knows how long they've been on Earth, and how

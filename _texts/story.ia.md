@@ -1,5 +1,13 @@
+---
+layout: narrative
+title: "Incense of Abomination"
+author:Seabury Quinn
+editor: Kristine Alvarez
+rights: public domain
+source: Wiki Source
+publication-date: 1938
+---
 By SEABURY QUINN
-
 A daring story of Devil-worship, the Black Mass, strange suicides, and the
 salvation of one who had sinned greatly, yet was truly
 repentant—a tale of Jules de Grandin

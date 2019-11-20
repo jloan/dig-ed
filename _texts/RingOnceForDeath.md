@@ -1,10 +1,12 @@
-RING ONCE FOR DEATH
-
-
-                           BY ROBERT ARTHUR
-
-
-                       Illustrator: Ernie Barth
+---
+layout: narrative
+title: "Ring Once For Death"
+author: Robert Arthur
+editor: Esmeralda Ojeda
+rights: Public Domain
+source: Project Gutenberg
+publication-date: 1954
+---
 
 
      _The power of the old gods was certainly nothing for Mark

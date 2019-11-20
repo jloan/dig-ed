@@ -1,5 +1,15 @@
 By Rog Phillips
 
+---
+layout: Narrative
+title: "Cube Root of Conquest"
+author: Rog Philips
+editor: Richard Soeum
+rights: Public domain
+source: Project Gutenberg
+publication-date: October 1948
+---
+
 
 What actual result is there in the act of conquest? What is its cube root?
 Jan ran tirelessly, his long clean limbs carrying him at express train speed across the uneven terrain. The small deer was beginning to show evidences of tiring. Its foam-flecked mouth was open, the swollen tongue protruding over the teeth. The ten or more miles of the chase had proven Jan's superior strength.

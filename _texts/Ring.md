@@ -1,3 +1,12 @@
+---
+layout: narrative
+title: "Ring Once for Death"	
+author: Robert Arthur
+editor: Aysia Alexandra
+rights: Public Domain
+source: Project Gutenburg
+publication-date: 1954
+---
 RING ONCE FOR DEATH
 
 

@@ -1,5 +1,5 @@
 ---
-layout: Narrative
+layout: narrative
 title: "Cube Root of Conquest"
 author: Rog Philips
 editor: Richard Soeum

@@ -1,10 +1,13 @@
-Layout:
+---
+layout: narrative
+title: "Half Around Pluto"
+author: Manly Wade Wellman
+editor: Giovanni Baglio
+rights: public domain
+source: Project Gutenberg
+publication-date: 1958
+---
 
-Title: Half Around Pluto
-
-Source:Project Gutenberg
-
-                     BY MANLY WADE WELLMAN
 
               _Pluto was a coffin world, airless,
             utterly cold. And they had ten days to

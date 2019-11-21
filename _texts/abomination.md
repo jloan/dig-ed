@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: "Incense of Abomination"
-author:Seabury Quinn
+author: Seabury Quinn
 editor: Kristine Alvarez
 rights: public domain
 source: Wiki Source

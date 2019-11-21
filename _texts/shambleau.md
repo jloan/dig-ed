@@ -8,7 +8,6 @@ source: archive.org
 publication-date: 1933
 ---
 
-Shambleau by C.L. Moore
 
 Shambleau! Ha . . . Shambleau!" The wild hysteria of the mob rocketed from wall to wall of Lakkdarol's narrow streets and the storming of heavy boots over the slag-red pavement made an ominous undernote to that swelling bay, "Shambleau! Shambleau!"
 

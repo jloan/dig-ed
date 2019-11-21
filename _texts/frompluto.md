@@ -1,14 +1,15 @@
-
-HALF AROUND PLUTO
-BY MANLY WADE WELLMAN
+---
+layout: narrative
+title: "Half Around Pluto"
+author: Manly Wade Wellman
+editor: Laura Colin
+rights: Public Domain
+source: Project Gutenberg
+publication-date: 1958
+--- 
 Pluto was a coffin world, airless,
 utterly cold. And they had ten days to
 reach Base Camp, ten thousand miles away.
-
-[Transcriber's Note: This etext was produced from
-Worlds of If Science Fiction, December 1958.
-Extensive research did not uncover any evidence that
-the U.S. copyright on this publication was renewed.]
 
 Their glassite space helmets fogged, and their metal glove joints stiffened in the incredible surface cold: but the two men who could work finished their job. In the black sky glistened the little arclight of the sun, a sixteen-hundredth of the blaze that fell on Earth. Around them sulked Pluto's crags and gullies, sheathed with the hard-frozen pallor that had been Pluto's atmosphere, eons ago.
 

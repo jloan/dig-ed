@@ -19,8 +19,7 @@ When she saw him standing there, tall and leather-brown, hand on his heat-gun, s
 
 Smith had not seen her face, but she was a girl, and sweetly made and in danger; and though he had not the reputation of a chivalrous man, something in her hopeless huddle at his feet touched that chord of sympathy for the underdog that stirs in every Earthman, and he pushed her gently into the corner behind him and jerked out his gun, just as the first of the running mob rounded the corner.
 
-It was a motley crowd, Earthmen and Martians and a sprinkling of 
- swampmen and strange, nameless denizens of unnamed planets—a typical Lakkdarol mob. When the first of them turned the corner and saw the empty street before them there was a faltering in the rush and the foremost spread out and began to search the doorways on both sides of the street.
+It was a motley crowd, Earthmen and Martians and a sprinkling of Venusian swampmen and strange, nameless denizens of unnamed planets—a typical Lakkdarol mob. When the first of them turned the corner and saw the empty street before them there was a faltering in the rush and the foremost spread out and began to search the doorways on both sides of the street.
 
 "Looking for something?" Smith's sardonic call sounded clear above the clamor of the mob.
 

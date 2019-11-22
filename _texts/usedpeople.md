@@ -1,16 +1,17 @@
-
-                          The Used People Lot
-
-                            BY IRVING FANG
+---
+layout: narrative
+title: "The Used People Lot"
+author: Irving E Fang
+editor: Julian Chown
+rights: Public domain
+source: Project Gutenberg
+publication-date: 1958
+---
 
                   _Faint car never won fair lady!...
                    Make_ your _car proud of you!...
                  Grinning Gregory helps used people!_
 
-           [Transcriber's Note: This etext was produced from
-              Worlds of If Science Fiction, August 1958.
-         Extensive research did not uncover any evidence that
-         the U.S. copyright on this publication was renewed.]
 
 
 It's had it. Finished. Done. My wonderful red Thunderflash, I thought

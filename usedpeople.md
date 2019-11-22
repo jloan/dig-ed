@@ -1,7 +1,4 @@
 
-                          The Used People Lot
-
-                            BY IRVING FANG
 
                   _Faint car never won fair lady!...
                    Make_ your _car proud of you!...

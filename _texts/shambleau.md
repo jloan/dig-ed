@@ -19,8 +19,7 @@ When she saw him standing there, tall and leather-brown, hand on his heat-gun, s
 
 Smith had not seen her face, but she was a girl, and sweetly made and in danger; and though he had not the reputation of a chivalrous man, something in her hopeless huddle at his feet touched that chord of sympathy for the underdog that stirs in every Earthman, and he pushed her gently into the corner behind him and jerked out his gun, just as the first of the running mob rounded the corner.
 
-It was a motley crowd, Earthmen and Martians and a sprinkling of 
- swampmen and strange, nameless denizens of unnamed planets—a typical Lakkdarol mob. When the first of them turned the corner and saw the empty street before them there was a faltering in the rush and the foremost spread out and began to search the doorways on both sides of the street.
+It was a motley crowd, Earthmen and Martians and a sprinkling of Venusian swampmen and strange, nameless denizens of unnamed planets—a typical Lakkdarol mob. When the first of them turned the corner and saw the empty street before them there was a faltering in the rush and the foremost spread out and began to search the doorways on both sides of the street.
 
 "Looking for something?" Smith's sardonic call sounded clear above the clamor of the mob.
 
@@ -71,14 +70,14 @@ The ex-Patrolman spat on the slag-paved street and turned his back indifferently
 
 * * *
 
-Smith stared in perplexity almost open-mouthed as the suddenly scornful mob began to break up. His mind was in a whirl. That such bloodthirsty animosity should vanish in a breath he could not believe. And the curious mingling of contempt and disgust on the faces he saw baffled him even more. Lakkdarol was anything but a puritan town—it did not enter his head for a moment that his claiming the brown girl as his own had caused that strangely shocked revulsion to spread through the crowd. No, it was something deeper-rooted than that. Instinctive, instant disgust had been in the faces he saw—they would have looked less so if he had admitted cannibalism or 
+Smith stared in perplexity almost open-mouthed as the suddenly scornful mob began to break up. His mind was in a whirl. That such bloodthirsty animosity should vanish in a breath he could not believe. And the curious mingling of contempt and disgust on the faces he saw baffled him even more. Lakkdarol was anything but a puritan town—it did not enter his head for a moment that his claiming the brown girl as his own had caused that strangely shocked revulsion to spread through the crowd. No, it was something deeper-rooted than that. Instinctive, instant disgust had been in the faces he saw—they would have looked less so if he had admitted cannibalism or Pharol-worship.
 .
 
 And they were leaving his vicinity as swiftly as if whatever unknowing sin he had committed were contagious. The street was emptying as rapidly as it had filled. He saw a sleek Venusian glance back over his shoulder as he turned the corner and sneer, "Shambleau!" and the word awoke a new line of speculation in Smith's mind. Shambleau! Vaguely of French origin, it must be. And strange enough to hear it from the lips of Venusian and Martian drylanders, but it was their use of it that puzzled him more. "We never let those things live," the ex-Patrolman had said. It reminded him dimly of something . . . an ancient line from some writing in his own tongue . . . "Thou shalt not suffer a witch to live." He smiled to himself at the similarity, and simultaneously was aware of the girl at his elbow.
 
 She had risen soundlessly. He turned to face her, sheathing his gun and stared at first with curiosity and then in the entirely frank openness with which men regard that which is not wholly human. For she was not. He knew it at a glance, though the brown, sweet body was shaped like a woman's and she wore the garment of scarlet—he saw it was leather—with an ease that few unhuman beings achieve toward clothing. He knew it from the moment he looked into her eyes, and a shiver of unrest went over him as he met them. They were frankly green as young grass, with slit-like, feline pupils that pulsed unceasingly, and there was a look of dark, animal wisdom in their depths—that look of the beast which sees more than man.
 
-
+There was no hair upon her face—neither brows nor lashes, and he would have sworn that the tight scarlet turban bound around her head covered baldness. She had three fingers and a thumb, and her feet had four digits apiece too, and all sixteen of them were tipped with round claws that sheathed back into the flesh like a cat's. She ran her tongue over her lips—a thin, pink, flat tongue as feline as her eyes—and spoke with difficulty. He felt that that throat and tongue had never been shaped for human speech.
 
 "Not—afraid now," she said softly, and her little teeth were white and polished as a kitten's.
 
